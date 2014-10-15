@@ -1,0 +1,74 @@
+
+
+
+body {
+	
+    font-family: 'Luckiest Guy', cursive;
+	}
+
+
+
+
+h1 { 
+	background-color: grey;
+	text-align: center;
+	
+	
+	}
+	
+h2 { 
+	
+	text-align: center;
+	
+	
+	
+	}
+	
+img {
+
+	
+	position: absolute;
+	top: 150px;
+	left: 450px;
+	
+
+
+
+	}
+	
+p {
+	postion:absolute;
+	width: 200px;
+	margin: 50px;
+	left: 200px;
+	
+	}
+	
+	
+@-webkit-keyframes spin {
+	-webkit-from { transform: rotate(0deg); }
+	-webkit-to { transform: rotate(360deg); }
+}
+
+
+
+	
+h3  { 
+	font-size: 40px;
+	color: red;
+	position: absolute;
+	top: 278px;
+	width: 100px;
+	left : 1039px;
+	animation: spin 2s ease 3s infinite  both;
+		
+    
+    } 
+		
+		
+		
+ 
+	
+	
+	
+	
